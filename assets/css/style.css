@@ -303,10 +303,11 @@ body {
 
 .wedget-content {
     padding: 20px;
+    margin: 0 20px 20px;
     background-color: #fff;
     text-transform: capitalize;
     font-weight: 600;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
     border-radius: 20px 0 20px 0;
 }
 
